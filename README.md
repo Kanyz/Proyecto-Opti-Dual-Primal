@@ -22,13 +22,6 @@ Este repositorio contiene el desarrollo completo de un proyecto universitario qu
 ```
 ├── notebooks/
 │   └── experimento_iteraciones.ipynb   # Comparación Primal vs Dual
-├── src/
-│   ├── modelo_primal.py                # Formulación y solución del primal
-│   ├── modelo_dual.py                  # Formulación y solución del dual
-│   └── estimacion_iteraciones.py       # Función de estimación sintética
-├── docs/
-│   ├── introduccion.docx               # Sección 1 del informe
-│   └── planteamiento.docx              # Sección 2 del informe
 ├── referencias.bib                     # Bibliografía en formato BibTeX
 └── README.md
 ```
