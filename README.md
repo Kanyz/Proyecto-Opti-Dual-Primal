@@ -38,8 +38,6 @@ $$\min \sum_{j=1}^{n} c_j x_j$$
 
 $$\text{s.a.} \quad \sum_{j=1}^{n} a_{ij} x_j \geq b_i, \quad i = 1, \dots, k \quad \text{(metas ecológicas)}$$
 
-$$\sum_{j=1}^{n} a_{ij} x_j \leq b_i, \quad i = k+1, \dots, m \quad \text{(restricciones de capacidad)}$$
-
 $$x_j \geq 0, \quad j = 1, \dots, n$$
 
 donde $x_j$ es el número de hectáreas a restaurar en la zona $j$, $c_j$ el costo unitario por hectárea y $b_i$ los límites de cada restricción.
